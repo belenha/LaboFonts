@@ -1,0 +1,75 @@
+body {
+    background-color: lightgrey;
+}
+
+div#info {
+    /* border: 1px solid black; */
+    margin-left: 25%;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#info img {
+    width: 100%;
+}
+
+div#central p {
+    text-align: center;
+}
+
+div.contenedor {
+    margin-top: 50px;
+    margin-left: 5%;
+}
+
+img {
+    height: 150px;
+    margin: 25px;
+    width: 150px;
+}
+
+div.contenedor * {
+    display: inline-block;
+}
+
+div.contenedor p {
+    /* border: 1px solid black; */
+    height: 200px;
+    text-align: justify;
+    width: 200px;
+}
+
+p#izq {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+p#centro {
+    font-family: 'Gamja Flower', cursive;
+}
+
+p#der {
+    font-family: 'Pacifico', cursive;
+}
+
+div#iconos {
+    /* border: 1px solid black; */
+    height: 50px;
+    margin: 50px 0;
+    width: 100%;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+div#iconos ul li {
+    font-size: 25px;
+}
+
+
+/* SPRITES: https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=742:sprite-css-concepto-ique-es-como-crear-y-usar-un-sprite-ejemplos-y-codigo-ejercicio-resuelto-cu01037d&catid=75&Itemid=203 */
